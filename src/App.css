@@ -1,0 +1,15 @@
+* {
+  user-select: none; /* Standard property */
+}
+.bg {
+  background-image: url("./assets/background.webp");
+  background-size: cover;
+}
+.cbg {
+  background-image: url("./assets/bg2.webp");
+  background-size: cover;
+}
+@font-face {
+  font-family: Montserrat;
+  src: url(./assets/fonts/Montserrat-Bold.ttf);
+}
